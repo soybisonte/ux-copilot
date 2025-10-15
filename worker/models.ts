@@ -42,7 +42,7 @@ export const AGENT_MODEL_DEFINITIONS = {
 		id: 'claude-sonnet-4-0',
 		provider: 'anthropic',
 	},
-
+	*/
 	// Recommended
 	'claude-3.5-sonnet': {
 		name: 'claude-3.5-sonnet',
@@ -50,7 +50,6 @@ export const AGENT_MODEL_DEFINITIONS = {
 		provider: 'anthropic',
 	},
 	 
-	*/
 	// Recommended
 	'gemini-2.5-flash': {
 		name: 'gemini-2.5-flash',
