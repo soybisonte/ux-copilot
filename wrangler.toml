@@ -9,6 +9,3 @@ bindings = [{ name = "AGENT_DURABLE_OBJECT", class_name = "AgentDurableObject" }
 [[migrations]]
 tag = "v1"
 new_classes = ["AgentDurableObject"]
-
-[vars]
-GOOGLE_API_KEY = ""
